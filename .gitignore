@@ -28,3 +28,4 @@ target
 classes/
 lib/
 *.log
+/bin/
