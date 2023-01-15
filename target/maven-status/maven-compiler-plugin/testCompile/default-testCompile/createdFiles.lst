@@ -1,0 +1,5 @@
+com\m2at\utils\LoadProperties.class
+com\m2at\utils\WebDriverFactory.class
+com\m2at\glue\GooglePagetitleSteps.class
+com\m2at\glue\GooglePagetitleSteps$1.class
+com\m2at\testRunners\RegressionTestRunner.class
