@@ -1,6 +1,7 @@
 package com.m2at.enums;
 
-public enum Waits {
+public enum Waits
+{
 	EXPLICIT_WAIT(10L);
 	
 	private long waitTime;
